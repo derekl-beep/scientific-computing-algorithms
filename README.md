@@ -34,3 +34,5 @@ To finish this repo, I will implement the numerical methods suggested in the ref
 
 ## References
 [Lecture Notes on Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) (Harvey Mudd College, Math 164). Prof. Jeffrey R. CHASNOV. HKUST.
+
+[Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/). Dr. Patrick Walls. UBC.
