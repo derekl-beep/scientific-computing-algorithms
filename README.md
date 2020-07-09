@@ -30,6 +30,13 @@ This repo stores my revision and implementations of numerical methods in mathema
 ## Targets
 
 To finish this repo, I will implement the numerical methods suggested in the reference, and also to make notes on different topics.
+Apart from the references, I would also like to include some topics that I have hands-on expereience during my research studies. For example:
+
+- Mathematical optimization
+- Kalman filtering
+- Structural dynamics
+- Bayesian model updating
+
 
 
 ## References
